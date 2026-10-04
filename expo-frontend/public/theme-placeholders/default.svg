@@ -1,0 +1,17 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#150817"/>
+  <circle cx="1010" cy="136" r="210" fill="#A855F7" fill-opacity="0.24"/>
+  <circle cx="164" cy="576" r="212" fill="#FF8FAB" fill-opacity="0.2"/>
+  <rect x="94" y="129" width="1012" height="442" rx="30" fill="#231128"/>
+  <rect x="137" y="173" width="926" height="62" rx="18" fill="#32203A"/>
+  <rect x="137" y="274" width="276" height="221" rx="24" fill="url(#paint0_linear_7_2)"/>
+  <rect x="434" y="274" width="276" height="221" rx="24" fill="#31203A"/>
+  <rect x="731" y="274" width="276" height="221" rx="24" fill="#31203A"/>
+  <text x="95" y="633" fill="#FFF7FB" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="58" font-weight="700">Theme Exhibition</text>
+  <defs>
+    <linearGradient id="paint0_linear_7_2" x1="137" y1="274" x2="413" y2="495" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8FAB"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+</svg>

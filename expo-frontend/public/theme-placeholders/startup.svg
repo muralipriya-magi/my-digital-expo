@@ -1,0 +1,26 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#0D1420"/>
+  <circle cx="1011" cy="136" r="216" fill="#A855F7" fill-opacity="0.2"/>
+  <circle cx="164" cy="573" r="198" fill="#22D3EE" fill-opacity="0.22"/>
+  <rect x="94" y="142" width="470" height="410" rx="28" fill="#152031"/>
+  <path d="M179 454L304 302L377 374L480 236" stroke="url(#paint0_linear_6_2)" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="179" cy="454" r="18" fill="#22D3EE"/>
+  <circle cx="304" cy="302" r="18" fill="#FF8FAB"/>
+  <circle cx="377" cy="374" r="18" fill="#A855F7"/>
+  <circle cx="480" cy="236" r="18" fill="#22D3EE"/>
+  <rect x="680" y="160" width="430" height="348" rx="30" fill="#162131"/>
+  <path d="M890 233L949 343H831L890 233Z" fill="url(#paint1_linear_6_2)"/>
+  <rect x="822" y="375" width="136" height="22" rx="11" fill="#2E3B51"/>
+  <rect x="851" y="414" width="79" height="22" rx="11" fill="#2E3B51"/>
+  <text x="94" y="628" fill="#FFF7FB" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="58" font-weight="700">Startup Fair</text>
+  <defs>
+    <linearGradient id="paint0_linear_6_2" x1="179" y1="454" x2="480" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_6_2" x1="831" y1="233" x2="949" y2="343" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8FAB"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+</svg>

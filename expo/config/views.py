@@ -1,0 +1,14 @@
+from django.db import connection
+from django.http import JsonResponse
+
+
+def health_check(request):
+    """Small unauthenticated endpoint for a hosting platform health check."""
+    try:
+        with connection.cursor() as cursor:
+            cursor.execute("SELECT 1")
+            cursor.fetchone()
+    except Exception:
+        return JsonResponse({"status": "unhealthy", "database": "unavailable"}, status=503)
+
+    return JsonResponse({"status": "ok", "database": "ok"})

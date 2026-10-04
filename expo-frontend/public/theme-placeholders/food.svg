@@ -1,0 +1,26 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#1D1110"/>
+  <circle cx="230" cy="135" r="190" fill="#FF8FAB" fill-opacity="0.22"/>
+  <circle cx="998" cy="590" r="235" fill="#F97316" fill-opacity="0.28"/>
+  <rect x="88" y="130" width="440" height="439" rx="30" fill="#2A1715"/>
+  <circle cx="307" cy="328" r="133" fill="url(#paint0_linear_2_2)"/>
+  <circle cx="307" cy="328" r="99" fill="#FFFCF8"/>
+  <circle cx="307" cy="328" r="74" fill="#FDBA74"/>
+  <circle cx="530" cy="248" r="120" fill="#341C18"/>
+  <path d="M730 164H1066V563H730V164Z" fill="#251411"/>
+  <rect x="774" y="207" width="248" height="176" rx="28" fill="url(#paint1_linear_2_2)"/>
+  <rect x="774" y="414" width="248" height="23" rx="11.5" fill="#4E2B25"/>
+  <rect x="774" y="454" width="219" height="23" rx="11.5" fill="#4E2B25"/>
+  <rect x="774" y="494" width="171" height="23" rx="11.5" fill="#4E2B25"/>
+  <text x="87" y="638" fill="#FFF7FB" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="58" font-weight="700">Food Festival</text>
+  <defs>
+    <linearGradient id="paint0_linear_2_2" x1="174" y1="195" x2="440" y2="461" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_2_2" x1="774" y1="207" x2="1022" y2="383" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#F43F5E"/>
+    </linearGradient>
+  </defs>
+</svg>

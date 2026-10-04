@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="84" y1="96" x2="428" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0F5"/>
+      <stop offset="1" stop-color="#F3E8FF"/>
+    </linearGradient>
+    <linearGradient id="stroke3" x1="150" y1="142" x2="350" y2="354" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8FAB"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect x="48" y="48" width="416" height="416" rx="120" fill="url(#bg3)"/>
+  <circle cx="256" cy="256" r="126" stroke="url(#stroke3)" stroke-width="28"/>
+  <path d="M256 132L348 196V332C348 349.673 333.673 364 316 364H196C178.327 364 164 349.673 164 332V196L256 132Z" fill="white"/>
+  <path d="M202 238H310" stroke="#3D0040" stroke-width="22" stroke-linecap="round"/>
+  <path d="M202 286H292" stroke="#3D0040" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="340" cy="174" r="26" fill="#22D3EE"/>
+  <path d="M340 138L346.735 166.265L375 173L346.735 179.735L340 208L333.265 179.735L305 173L333.265 166.265L340 138Z" fill="white"/>
+</svg>

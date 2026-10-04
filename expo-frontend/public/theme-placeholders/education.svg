@@ -1,0 +1,22 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="36" fill="#0F1824"/>
+  <circle cx="972" cy="160" r="192" fill="#22D3EE" fill-opacity="0.18"/>
+  <circle cx="184" cy="565" r="210" fill="#FF8FAB" fill-opacity="0.18"/>
+  <path d="M114 480L311 150L508 480H114Z" fill="url(#paint0_linear_5_2)"/>
+  <rect x="144" y="323" width="330" height="195" rx="26" fill="#1A2638"/>
+  <rect x="694" y="132" width="387" height="408" rx="30" fill="#162131"/>
+  <rect x="740" y="179" width="295" height="34" rx="12" fill="#29364A"/>
+  <rect x="740" y="247" width="133" height="214" rx="18" fill="#26344A"/>
+  <rect x="890" y="286" width="145" height="175" rx="18" fill="url(#paint1_linear_5_2)"/>
+  <text x="114" y="629" fill="#FFF7FB" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="58" font-weight="700">Education Expo</text>
+  <defs>
+    <linearGradient id="paint0_linear_5_2" x1="114" y1="150" x2="508" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_5_2" x1="890" y1="286" x2="1035" y2="461" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8FAB"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+</svg>
